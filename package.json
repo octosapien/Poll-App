@@ -1,0 +1,11 @@
+{
+  "name": "voting-app-main",
+  "version": "1.0.0",
+  "description": "Polling app using mern stack .\r # voting-app\r Voting App MERN Stack\r This is a MERN project. cd to server and run \"npm install\" to install all the dependencies. Do the same for client as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
